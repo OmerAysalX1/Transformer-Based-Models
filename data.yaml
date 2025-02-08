@@ -1,0 +1,9 @@
+
+train: /Users/omeraysal/Desktop/colorful_fashion_dataset_for_object_detection/train
+val: /Users/omeraysal/Desktop/colorful_fashion_dataset_for_object_detection/test
+
+# number of classes
+nc: 10
+
+# class names
+names: ['sunglass','hat','jacket','shirt','pants','shorts','skirt','dress','bag','shoe']
