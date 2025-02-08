@@ -1,5 +1,8 @@
 # Fashion Segmentation with Transformers
 
+# Link:
+"https://www.kaggle.com/competitions/imaterialist-fashion-2020-fgvc7/data"
+
 # 📝 Overview
 
 This project focuses on image segmentation using Transformer-based models. The dataset used is iMaterialist (Fashion) 2020 in FGVC7, where real masks are extracted and evaluated using Interaction Over Union (IoU) scores. The final step involved testing the segmentation model and visualizing the results in images.
